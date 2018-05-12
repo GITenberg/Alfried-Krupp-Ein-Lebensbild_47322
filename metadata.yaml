@@ -1,4 +1,8 @@
 _repo: Alfried-Krupp-Ein-Lebensbild_47322
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47322-h/images/cover.jpg
 creator:
   author:
     agent_name: Frobenius, Herman
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44253
     wikipedia: http://de.wikipedia.org/wiki/Hermann_Frobenius
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47322#Alfried-Krupp-Ein-Lebensbild
 gutenberg_issued: '2014-11-09'
 gutenberg_type: Text
 identifiers:
